@@ -1,2 +1,2 @@
 # p1-redes
-Dns y hosting
+Prácticaa 1 - Laboratorio de Redes
